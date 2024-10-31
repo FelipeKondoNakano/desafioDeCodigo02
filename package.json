@@ -1,0 +1,14 @@
+{
+  "name": "desafiodecodigo02",
+  "version": "1.0.0",
+  "main": "Desafio02.js",
+  "scripts": {
+    "test": "prompt"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
